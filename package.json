@@ -1,0 +1,14 @@
+{
+  "name": "electron-poc",
+  "version": "0.1.0",
+  "description": "proof of concept",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Adrian Aguirre",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.4"
+  }
+}
